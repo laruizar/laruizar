@@ -1,4 +1,3 @@
-# laruizar.github.io
 <h1 align="center">Hola 👋, soy Luis___R</h1><h3 align="center">Un apasionado desarrollador de software de Colombia</h3>
 <img align="right" alt="GIF" src="https://th.bing.com/th/id/OIG._R9P7MFFwkTxQL49U9Du?pid=ImgGn/master/gif3.gif" width="500"/> 
 
